@@ -1,4 +1,4 @@
-# MedThink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering
+# [ 🎯 NAACL 2025 ] MedThink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering
 
 This repository contains the official implementation of our NAACL 2025 paper:
 
